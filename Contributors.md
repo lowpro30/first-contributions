@@ -7139,6 +7139,7 @@
 - [YgorLe](https://github.com/YgorLe)
 - [Gangadhar](https://github.com/p489)
 - [Harsh Kumar Gautam](https://github.com/gautam32)
+- [David Elliott](https://github.com/lowpro30)
 - [Arif Ahmad](https://github.com/arifahmad-py)
 - [Jay Sonawane](https://github.com/jayson-310801)
 - [Divyansh Natani](https://github.com/DivyanshNatani)
